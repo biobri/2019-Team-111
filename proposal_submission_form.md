@@ -1,15 +1,15 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 111  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Base 1
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### Comb/ read raw data and combine anecdotal information from existing social media platforms to facilitate communication and implementation of community based solutions to community needs.
+#####  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
+- ##### san diego health data https://data.livewellsd.org/
 - ##### `YOUR DATASETS  HERE`
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
@@ -31,8 +31,8 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
@@ -50,9 +50,9 @@
 - [ ] Your question:
 
 **Smart Health**
-- [ ] How can we share useful public health information and web analytical tools for improve public health in San Diego?
+- [x] How can we share useful public health information and web analytical tools for improve public health in San Diego?
 - [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
-- [ ] Your question:
+- [x] Your question: How can we help individuals provide meaningful contributions to their community.
 
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")  
